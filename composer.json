@@ -1,10 +1,7 @@
 {
     "name": "logvin/yii2-relation-expand-fields-behavior",
-    "description": "",
-    "keywords": [],
-    "homepage": "",
     "type": "yii2-behavior",
-    "license": "MIT",
+    "version": "1.1.1",
     "authors": [
         {
             "name": "Logvin Oleg",
