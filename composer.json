@@ -1,0 +1,27 @@
+{
+    "name": "logvin/yii2-relation-expand-fields-behavior",
+    "description": "",
+    "keywords": [],
+    "homepage": "",
+    "type": "yii2-behavior",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Logvin Oleg",
+            "email": "logvinoleg89@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "logvin\\behaviors\\": "src"
+        }
+    },
+    "require-dev": {
+        "yiisoft/yii2-codeception": "~2.0"
+    }
+}
