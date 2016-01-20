@@ -5,7 +5,7 @@
     "homepage": "",
     "type": "yii2-behavior",
     "license": "MIT",
-    "version":"1.0.0-stable",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "Logvin Oleg",
